@@ -1,4 +1,4 @@
-# Hello, I'm JITHIn 👋
+# Hello, I'm JITHIN 👋
 
 Welcome to my GitHub profile! I'm a passionate Python developer, focusing on **backend development** with Django, and I enjoy building web applications and learning new technologies.
 
@@ -12,14 +12,42 @@ Welcome to my GitHub profile! I'm a passionate Python developer, focusing on **b
 
 ## 💻 Skills
 
-- **Languages**: Python, SQL, HTML, CSS
-- **Frameworks**: Django, Flask
-- **Databases**: MySQL, SQLite
-- **Tools**: Git, Docker, PostgreSQL, Redis
+- **Languages**: 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+- **Frameworks**: 
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-## 🌱 Currently Working as an Intern
+- **Databases**: 
+  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- App using **Django** and **MySQL**.
+- **Frontend**: 
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+- **Tools**:
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🌱 Currently Working On
+
+- [Project Name] - A task management app using **Django** and **MySQL**.
 - Exploring **Django Rest Framework** for building REST APIs.
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-twitter)
+- [Your Website](https://www.yourwebsite.com)
+
+---
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
