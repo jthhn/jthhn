@@ -43,7 +43,10 @@ Welcome to my GitHub profile! I'm a passionate Python developer, focusing on **b
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
 - [Twitter](https://twitter.com/your-twitter)
 - [Your Website](https://www.yourwebsite.com)
 
