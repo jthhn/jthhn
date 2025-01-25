@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Python developer, focusing on **b
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name]**, a Django application with a MySQL database.
+- 🔭 I’m currently working on a Django application with a MySQL database.
 - 🌱 I’m currently learning more about **Machine Learning** and **Advanced Django** techniques.
 - 💬 Ask me about **Python**, **Django**, **MySQL**, **SQLite**, **HTML**, and **CSS**.
 - 📚 I love learning new technologies and keeping up-to-date with the latest trends in the tech industry.
