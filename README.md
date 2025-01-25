@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate Python developer, focusing on **b
   
 - **Frameworks**: 
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 - **Databases**: 
   ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) 
