@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Python developer, focusing on **b
 
 ## 🌱 Currently Working On
 
-- [Project Name] - A task management app using **Django** and **MySQL**.
+- A app using **Django** and **MySQL**.
 - Exploring **Django Rest Framework** for building REST APIs.
 
 ## 📈 GitHub Stats
