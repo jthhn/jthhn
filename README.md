@@ -48,7 +48,9 @@ Welcome to my GitHub profile! I'm a passionate Python developer, focusing on **b
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 - [Twitter](https://twitter.com/your-twitter)
-- [Your Website](https://jthhn.github.io/Portfolio/)
+  ## 🔗 Portfolio Link  
+🌍 [Check out my portfolio](https://your-portfolio-link.com)
+  (https://jthhn.github.io/Portfolio/)
 
 ---
 
