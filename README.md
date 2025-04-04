@@ -1,6 +1,6 @@
 # Hello, I'm JITHIN 👋
 
-Welcome to my GitHub profile! I'm a passionate Python developer, focusing on **backend development** with Django, and I enjoy building web applications and learning new technologies.
+Welcome to my GitHub profile! I'm a passionate **Python developer** with a strong focus on **Linux systems**. I enjoy working on backend development, building efficient solutions, and continuously exploring new tools and technologies in the Python and Linux ecosystems.
 
 ## 🧑‍💻 About Me
 
