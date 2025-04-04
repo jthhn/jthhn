@@ -4,16 +4,16 @@ Welcome to my GitHub profile! I'm a passionate Python developer, focusing on **b
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on a Django application with a MySQL database.
-- 🌱 I’m currently learning more about **Machine Learning** and **Advanced Django** techniques.
-- 💬 Ask me about **Python**, **Django**, **MySQL**, **SQLite**, **HTML**, and **CSS**.
-- 📚 I love learning new technologies and keeping up-to-date with the latest trends in the tech industry.
-- 📝 You can find my blog or other writings on [Your Blog/Website URL] (if applicable).
+- 🔭 I’m currently working on a **Django** application with a **MySQL** database, along with **web scraping** projects and managing **Linux servers**.
+- 🌱 I’m diving deeper into **Machine Learning**, **AI models**, and **Advanced Django** techniques.
+- 💬 Ask me about **Python**, **Django**, **&MySQL**,**Web Scraping**, **Linux**, **Linux server management**, **Docker**, **Pytest**, **HTML**, **CSS**, and backend development.
+- 🚀 I enjoy building scalable systems, automating workflows with **Python**, containerizing apps with **Docker**, and writing solid tests using **Pytest**.
+- 📚 Passionate about learning cutting-edge tech and staying up-to-date with trends in **ML**, **AI**, and modern backend development.
 
 ## 💻 Skills
 
 - **Languages**: 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
   
 - **Frameworks**: 
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate Python developer, focusing on **b
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jthhn&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jthhn&show_icons=true&hide_title=true&count_private=true&theme=catppuccin_mocha)
 
 ## 🤝 Let's Connect
 
