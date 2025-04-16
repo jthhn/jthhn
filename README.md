@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm a passionate **Python developer** with a stron
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 
-  <a href="https://jthhn.github.io/Portfolio/">
+  <a href="https://jthhn.github.io/Portfolio/" targer="_blank" rel="noopener noreferrer">
     Check out my portfolio
   </a> 
 
