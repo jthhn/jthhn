@@ -66,11 +66,11 @@ Welcome to my GitHub profile! I'm a passionate **Python developer** with a stron
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/jithin-a-m-" target="_blank">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 
-  <a href="https://jthhn.github.io/Portfolio/">
+  <a href="https://jthhn.github.io/Portfolio/" target="_blank" >
     Check out my portfolio
   </a> 
 
