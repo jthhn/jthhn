@@ -65,10 +65,6 @@ Welcome to my GitHub profile! I'm a passionate **Python developer** with a stron
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jthhn&show_icons=true&hide_title=true&count_private=true&theme=catppuccin_mocha)
 
-![Snake Animation](https://raw.githubusercontent.com/jthhn/jthhn/main/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake Animation](https://raw.githubusercontent.com/jthhn/jthhn/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
 ## 🤝 Let's Connect
 
 <p>
